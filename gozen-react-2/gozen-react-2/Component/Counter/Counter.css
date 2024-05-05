@@ -1,0 +1,10 @@
+.increment-button{
+    background-color: black;
+    color: rgb(221, 250, 249);
+}
+
+.decrement-button{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+}
